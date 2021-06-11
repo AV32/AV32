@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avinash Mittal!</h1>
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=av32&label=Profile%20views&color=0e75b6&style=flat" alt="av32" /> </p>
