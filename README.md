@@ -1,4 +1,4 @@
-<style> body { background-color : pink; } </style>
+<  background color = "pink" >
 <h1 align="center">Hi 👋, I'm Avinash Mittal!</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
