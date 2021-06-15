@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Avinash Mittal</h1>
+<h1 align="center">Hi! I'm Avinash Mittal</h1>
 
 <!-- [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation) -->
 
