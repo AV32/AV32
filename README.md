@@ -33,6 +33,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=av32&" alt="av32" /></p>
 
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+
 
 <!--
 **AV32/AV32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
