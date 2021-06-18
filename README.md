@@ -35,7 +35,6 @@
                 <a href="mailto:avinash32mittal@gmail.com?subject=Mail%20from%20GitHub">
                     <img width="28px"  src="![logo_gmail_round_2020q4_color_2x_web_96dp (1)](https://user-images.githubusercontent.com/79203678/122491473-b5e28c80-d001-11eb-9e52-a5970c6de544.png)" alt="gmail icon"/>
                 </a>&nbsp;&nbsp;
-
                 </td>
                 <td>
                     <a href="https://profile-counter.glitch.me/AV32/count.svg">
