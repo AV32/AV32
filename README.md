@@ -23,7 +23,7 @@
                 <a href="https://linkedin.com/in/avinash32mittal" target="blank"><img align="center" src="./github-profile/logos/linkedin.png" alt="linkedin icon" height="40" width="40" /></a>&nbsp;&nbsp;       
                 <a href="https://www.instagram.com/avinash32mittal/?hl=it" target="blank"><img align="center" src="./github-profile/logos/instagram.png" alt="instagram icon" height="40" width="40"/>
                 </a>&nbsp;&nbsp;
-                <a href="mailto:avinash32mittal@gmail.com?subject=Mail%20from%20GitHub" target="blank"><img align="center" src="./github-profile/logos/logo_gmail_round_2020q4_color_2x_web_96dp (1).png" alt="gmail icon"/>
+                <a href="mailto:avinash32mittal@gmail.com?subject=Mail%20from%20GitHub" target="blank"><img align="center" src="./github-profile/logos/logo_gmail_round_2020q4_color_2x_web_96dp (1).png" alt="gmail icon" height="40" width="40"/>
                 </a>&nbsp;&nbsp;
                 </td>
                 <td>
