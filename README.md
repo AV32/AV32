@@ -28,7 +28,7 @@
             <tr>
                 <td>
                 <a href="https://twitter.com/avinash32mittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter icon" height="30" width="40" /></a>&nbsp;&nbsp;
-                <a href="https://linkedin.com/in/avinash32mittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin icon" height="30" width="40" /></a>&nbsp;&nbsp;
+                <a href="https://linkedin.com/in/avinash32mittal" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/79203678/122487715-86c81d00-cff9-11eb-9d29-74ace6b7fcb8.png)" alt="linkedin icon" height="30" width="40" /></a>&nbsp;&nbsp;
                 <a href="https://www.facebook.com/ivan.pesenti.52/">
                     <img width="28px" src="./img/icons/facebook.svg" alt="facebook icon"/>
                 </a>&nbsp;&nbsp;
