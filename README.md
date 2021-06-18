@@ -27,9 +27,7 @@
         <tbody>
             <tr>
                 <td>
-                <a href="https://twitter.com/PesentiIvan">
-                    <img width="28px" src="./img/icons/twitter.svg" alt="twitter icon"/>
-                </a>&nbsp;&nbsp;
+                <a href="https://twitter.com/avinash32mittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter icon" height="30" width="40" /></a>&nbsp;&nbsp;
                 <a href="https://www.linkedin.com/in/ivan-pesenti-735232119/">
                     <img width="28px" src="./img/icons/linkedin.svg" alt="linkedin icon"/>
                 </a>&nbsp;&nbsp;
@@ -65,10 +63,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/avinash32mittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="avinash32mittal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/avinash32mittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinash32mittal" height="30" width="40" /></a>
-<a href="https://instagram.com/avinash32mittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avinash32mittal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/avinash32mittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="avinash32mittal" height="30" width="40" /></a>
+<a href="https://twitter.com/avinash32mittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter icon" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/avinash32mittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin icon" height="30" width="40" /></a>
+<a href="https://instagram.com/avinash32mittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram icon" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/avinash32mittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode icon" height="30" width="40" /></a>
 </p>
 
 <details align="center">
