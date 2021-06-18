@@ -19,14 +19,14 @@
         <tbody>
             <tr>
                 <td>
-                <a href="https://twitter.com/avinash32mittal" target="blank"><img align="center" src="./github-profile/logos/twitter.png" alt="twitter icon" height="35" width="35"/></a>&nbsp;&nbsp;&nbsp;
+                &nbsp;<a href="https://twitter.com/avinash32mittal" target="blank"><img align="center" src="./github-profile/logos/twitter.png" alt="twitter icon" height="35" width="35"/></a>&nbsp;&nbsp;&nbsp;
                 <a href="https://linkedin.com/in/avinash32mittal" target="blank"><img align="center" src="./github-profile/logos/linkedin.png" alt="linkedin icon" height="35" width="35" /></a>&nbsp;&nbsp;&nbsp;       
                 <a href="https://www.instagram.com/avinash32mittal/?hl=it" target="blank"><img align="center" src="./github-profile/logos/instagram.png" alt="instagram icon" height="35" width="35"/></a>&nbsp;&nbsp;
                 <a href="mailto:avinash32mittal@gmail.com?subject=Mail%20from%20GitHub" target="blank"><img align="center" src="./github-profile/logos/logo_gmail_round_2020q4_color_2x_web_96dp (1).png" alt="gmail icon" height="35" width="35"/></a>&nbsp;
                 </td>
                 <td>
                     <a href="https://profile-counter.glitch.me/AV32/count.svg">
-                        <img src="https://profile-counter.glitch.me/AV32/count.svg" alt="img of number of profile's visitors"/>
+                        <img align="center" src="https://profile-counter.glitch.me/AV32/count.svg" alt="img of number of profile's visitors"/>
                     </a>
                 </td>
             </tr>        
