@@ -6,15 +6,7 @@
 
 ![a701881e72a9fd2ad9c84252a7a71653 11](https://user-images.githubusercontent.com/79203678/121811321-aa9a0480-cc81-11eb-9f3c-252c6656dff2.png)
 
-
-
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=av32&label=Profile%20views&color=0e75b6&style=flat" alt="av32" /> </p> -->
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=av32" alt="av32" /></a> </p> -->
-
-<!-- <p align="left"> <a href="https://twitter.com/avinash32mittal" target="blank"><img src="./github-profile/logos/instagram.png" alt="avinash32mittal" /></a> </p> -->
 
 <div align="center">
 
@@ -29,8 +21,7 @@
                 <td>
                 <a href="https://twitter.com/avinash32mittal" target="blank"><img align="center" src="./github-profile/logos/twitter.png" alt="twitter icon" height="40" width="40"/></a>&nbsp;&nbsp;
                 <a href="https://linkedin.com/in/avinash32mittal" target="blank"><img align="center" src="./github-profile/logos/linkedin.png" alt="linkedin icon" height="40" width="40" /></a>&nbsp;&nbsp;       
-                <a href="https://www.instagram.com/avinash32mittal/?hl=it">
-                    <img width="28px"  src="./github-profile/logos/instagram.png" alt="instagram icon"/>
+                <a href="https://www.instagram.com/avinash32mittal/?hl=it" src="./github-profile/logos/instagram.png" alt="instagram icon" height="40" width="40"/>
                 </a>&nbsp;&nbsp;
                 <a href="mailto:avinash32mittal@gmail.com?subject=Mail%20from%20GitHub">
                     <img width="28px"  src="./github-profile/logos/logo_gmail_round_2020q4_color_2x_web_96dp (1).png" alt="gmail icon"/>
