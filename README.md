@@ -14,8 +14,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=av32" alt="av32" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/avinash32mittal" target="blank"><img src="./github-profile/logos/instagram.png
-" alt="avinash32mittal" /></a> </p>
+<p align="left"> <a href="https://twitter.com/avinash32mittal" target="blank"><img src="./github-profile/logos/instagram.png" alt="avinash32mittal" /></a> </p>
 
 <div align="center">
 
