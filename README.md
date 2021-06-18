@@ -14,7 +14,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=av32" alt="av32" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/avinash32mittal" target="blank"><img src="./github-profile/logos/instagram.png" alt="avinash32mittal" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/avinash32mittal" target="blank"><img src="./github-profile/logos/instagram.png" alt="avinash32mittal" /></a> </p> -->
 
 <div align="center">
 
@@ -30,8 +30,8 @@
                 <a href="https://twitter.com/avinash32mittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter icon" height="30" width="40" /></a>&nbsp;&nbsp;
                 <a href="https://linkedin.com/in/avinash32mittal" target="blank"><img align="center" src="![linkedin (1)](https://user-images.githubusercontent.com/79203678/122491661-05c15380-d002-11eb-8c6f-df787324468d.png)" alt="linkedin icon" height="30" width="40" /></a>&nbsp;&nbsp;
                 
-                <a href="https://www.instagram.com/ivan_pesenti/?hl=it">
-                    <img width="28px"  src="./img/icons/instagram.svg" alt="instagram icon"/>
+                <a href="https://www.instagram.com/avinash32mittal/?hl=it">
+                    <img width="28px"  src="./github-profile/logos/instagram.png" alt="instagram icon"/>
                 </a>&nbsp;&nbsp;
                 <a href="mailto:avinash32mittal@gmail.com?subject=Mail%20from%20GitHub">
                     <img width="28px"  src="![logo_gmail_round_2020q4_color_2x_web_96dp (1)](https://user-images.githubusercontent.com/79203678/122491473-b5e28c80-d001-11eb-9e52-a5970c6de544.png)" alt="gmail icon"/>
