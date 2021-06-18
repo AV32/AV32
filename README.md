@@ -53,8 +53,8 @@
                 </a>
                 </td>
                 <td>
-                    <a href="https://profile-counter.glitch.me/ivan-pesenti/count.svg">
-                        <img src="https://profile-counter.glitch.me/ivan-pesenti/count.svg" alt="img of number of profile's visitors"/>
+                    <a href="https://profile-counter.glitch.me/AV32/count.svg">
+                        <img src="https://profile-counter.glitch.me/AV32/count.svg" alt="img of number of profile's visitors"/>
                     </a>
                 </td>
             </tr>        
